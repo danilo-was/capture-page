@@ -10,5 +10,5 @@ CSS
 Primeiro passo, clone o projeto em sua maquina
 Segundo, abrir o arquivo index.html no navegar
 ⌨️ Resultado
-
+<imag width:700px src="./imagens/print.png" >
 https://raw.githubusercontent.com/devsp011/pagina-de-captura/master/images/print.png
