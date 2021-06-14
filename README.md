@@ -11,5 +11,5 @@ Primeiro passo, clone o projeto em sua maquina
 Segundo, abrir o arquivo index.html no navegar
 ⌨️ Resultado
 
-
+<link rel="icon" href="./IMAGES/icon.png" type="image/png">
 <img src="./images/print.png" >
