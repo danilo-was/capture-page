@@ -12,4 +12,4 @@ Segundo, abrir o arquivo index.html no navegar
 ⌨️ Resultado
 
 
-print
+<img src="./images/print.png" >
